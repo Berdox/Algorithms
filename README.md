@@ -1,4 +1,4 @@
-#Algorithms
-   -MergeSort
-   -QuickSort
-   -BinarySort
+# Algorithms
+   - MergeSort
+   - QuickSort
+   - BinarySort
