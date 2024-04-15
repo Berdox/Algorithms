@@ -1,5 +1,8 @@
 package dev.berdox.QuickSort;
 
+
+// Runtime O(n^2)
+
 public class SortQuick {
     private void swap(int[] array, int i, int j) {
         int temp = array[i];

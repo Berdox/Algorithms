@@ -2,8 +2,8 @@ package dev.berdox.BinarySearch;
 
 // It will sort the incoming array into ascending order then do binary search on it.
 // This works by checking the middle index of an array and seeing if that number is
-// smaller or bigger than the target number and split the array acroundly
-
+// smaller or bigger than the target number and split the array accord
+// Runtime O(log n)
 public class BinarySearch {
     // Will do binary search and will return the index of it
     // but if not found will return -1

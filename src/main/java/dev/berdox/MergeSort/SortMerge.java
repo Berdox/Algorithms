@@ -1,5 +1,8 @@
 package dev.berdox.MergeSort;
 
+
+// Runtime O(nlog n)
+
 public class SortMerge {
 
     private void merge(int[] array, int begin, int middle, int end) {
