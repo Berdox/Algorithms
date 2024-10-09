@@ -1,0 +1,15 @@
+G:\code\Algorithms\C#\QuickSort\bin\Debug\net8.0\QuickSort Algorithm.exe
+G:\code\Algorithms\C#\QuickSort\bin\Debug\net8.0\QuickSort Algorithm.deps.json
+G:\code\Algorithms\C#\QuickSort\bin\Debug\net8.0\QuickSort Algorithm.runtimeconfig.json
+G:\code\Algorithms\C#\QuickSort\bin\Debug\net8.0\QuickSort Algorithm.dll
+G:\code\Algorithms\C#\QuickSort\bin\Debug\net8.0\QuickSort Algorithm.pdb
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.AssemblyInfoInputs.cache
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.AssemblyInfo.cs
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.csproj.CoreCompileInputs.cache
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.sourcelink.json
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.dll
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\refint\QuickSort Algorithm.dll
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.pdb
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\QuickSort Algorithm.genruntimeconfig.cache
+G:\code\Algorithms\C#\QuickSort\obj\Debug\net8.0\ref\QuickSort Algorithm.dll

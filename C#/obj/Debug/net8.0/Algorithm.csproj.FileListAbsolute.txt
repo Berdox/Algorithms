@@ -1,0 +1,5 @@
+G:\code\Algorithms\C#\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\Algorithms\C#\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+G:\code\Algorithms\C#\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+G:\code\Algorithms\C#\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+G:\code\Algorithms\C#\obj\Debug\net8.0\Algorithm.sourcelink.json
